@@ -1,0 +1,16 @@
+{
+  "name": "MyCalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myScript.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/rinZee/My-Calculator.git",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
